@@ -1,15 +1,14 @@
-from setuptools import setup
-
+﻿from setuptools import setup
 setup(
     name = 'aluratemp',
     version = '1.0.0',
-    author = 'Yan Orestes',
-    author_email = 'yan.orestes@alura.com.br',
+    author = 'Denis Ávila Montini',
+    author_email = 'denisavilamontini@yahoo.com.br',
     packages = ['aluratemp'],
-    description = 'Um simples conversor de temperatura (Celsius - Fahrenheit)',
-    long_description = 'Um simples conversor de temperatura, com funções para '
+    description = 'Este é um conjunto elementar de funções para a conversção de temperatura (Celsius - Fahrenheit)',
+    long_description = 'Conversor básico de temperatura, contendo funções para: '
                         + 'conversão de Celsius para Fahrenheit e vice-versa, '
-                        + 'usado para um post no Blog da Alura',
+ 
     url = 'https://github.com/yanorestes/aluratemp',
     project_urls = {
         'Código fonte': 'https://github.com/yanorestes/aluratemp',
