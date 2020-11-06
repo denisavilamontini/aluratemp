@@ -1,5 +1,4 @@
-﻿from setuptools import setup
-setup(
+﻿setup(
     name = 'aluratemp',
     version = '1.0.0',
     author = 'Denis Ávila Montini',
@@ -11,8 +10,8 @@ setup(
  
     url = 'https://github.com/yanorestes/aluratemp',
     project_urls = {
-        'Código fonte': 'https://github.com/yanorestes/aluratemp',
-        'Download': 'https://github.com/yanorestes/aluratemp/archive/1.0.0.zip'
+        'Código fonte': 'https://github.com/denisavilamontini/aluratemp',
+        'Download': 'https://github.com/denisavilamontini/aluratemp/blob/main/aluratemp-1.0.0.tar.gz'
     },
     license = 'MIT',
     keywords = 'conversor temperatura alura',
