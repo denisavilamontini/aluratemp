@@ -1,1 +1,1 @@
-from aluratemp import *
+from .conversor_temp import *
